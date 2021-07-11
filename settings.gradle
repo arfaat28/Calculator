@@ -1,0 +1,2 @@
+rootProject.name = "MyCalci"
+include ':app'
